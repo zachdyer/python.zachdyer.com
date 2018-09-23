@@ -1,2 +1,4 @@
 *.pyc
 python.zachdyer.com.log
+credentials.json
+token.json
